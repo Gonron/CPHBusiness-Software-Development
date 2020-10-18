@@ -21,4 +21,8 @@ Github Repo: https://github.com/Gonron/System-Integration
 
 ## Discrete Mathematics
 
-Githus Repo: https://github.com/Gonron/Discrete-Mathematics  
+Github Repo: https://github.com/Gonron/Discrete-Mathematics  
+
+## Investigation and Reporting 
+
+Github Repo: https://github.com/Gonron/Investigation_and_Reporting  
